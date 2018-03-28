@@ -1,6 +1,6 @@
 Voice Controlled Obstacle Avoidance Robot Car 
 
-Robotics Project
+Robotics Project done on Arduino uno board.
 
 ◦ Objective :To create a voice controlled robot. .
 ◦ The robot worked fully on the voice commands given by the user through an android application.
